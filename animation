@@ -1,0 +1,10 @@
+.animation_wrapper{
+    width: 50;
+    height: 600px;
+    background-color: white
+        position: relative;
+        margin: auto;
+        top: 50px
+        
+}
+.animation
